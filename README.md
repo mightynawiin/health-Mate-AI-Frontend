@@ -160,20 +160,11 @@ agent = Agent(
 | CORS Errors         | Frontend couldn’t connect to FastAPI backend due to CORS policy blocks.     | Used `fastapi.middleware.cors` with permissive settings during dev.      |
 | API Key Leaks       | Accidentally committed `.env` with secrets.                                 | Added `.env` to `.gitignore` and rotated all leaked API keys immediately. |
 
------
-
-## 👥 Team
-
-| **👨‍💻 Mohamed Raahil**<br>[GitHub](https://github.com/YSRaahil) | **👨‍💻 Manoj Kumar Pendem**<br>[GitHub](https://github.com/Manojkumar2806) |
-|--------------------------------------|--------------------------------------|
-| Prototype & architecture lead, passionate about building impactful health AI solutions. | Frontend & integration specialist, focused on creating seamless and accessible user experiences. |
-
----
 
 ## 🤝 Let’s Connect!
 
-- 🛠️ [GitHub](https://github.com/Manojkumar2806) – Explore the code, file feedback, or contribute ideas  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/manoj-kumar-pendem/) – Let’s connect professionally  
+- 🛠️ [GitHub](https://github.com/mightynawiin/) – Explore the code, file feedback, or contribute ideas  
+- 🔗 [LinkedIn](www.linkedin.com/in/naveen-bathini-b227662a3) – Let’s connect professionally  
 - 🌍 Collaborations: Open to NGOs, health orgs, and language localization partners
 
 ---
