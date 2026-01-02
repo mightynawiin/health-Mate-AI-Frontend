@@ -39,8 +39,8 @@ The world is grappling with a health information crisis:
 
 - **Live Link** → [Visit Here](https://healthmate-ai-voice-agent-frontend.vercel.app/)  
 - **Demo Video** → [See Here](https://www.loom.com/share/a4025d13319b4b4d86f178c582fdf69c?sid=538a28b7-020e-4ad2-a0d8-9aeb845f872b)  
-- **Frontend Repository** → [Check Here](https://github.com/Manojkumar2806/healthmate-ai-voice-agent-frontend.git)  
-- **Backend Repository** → [Check Here](https://github.com/Manojkumar2806/healthmate-ai-voice-agent-backend.git)
+- **Frontend Repository** → [Check Here](https://github.com/mightynawiin/health-Mate-AI-Frontend.git)  
+- **Backend Repository** → [Check Here](https://github.com/mightynawiin/health-mate-Ai-Backend.git)
 
 
 ---
